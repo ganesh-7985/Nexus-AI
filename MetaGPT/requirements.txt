@@ -1,0 +1,26 @@
+# Minimal requirements for cleaned MetaGPT core pipeline
+aiofiles>=23.2.1
+aiohttp>=3.8.6
+anthropic>=0.47.2
+chardet
+fsspec
+gitpython>=3.1.40
+gitignore-parser>=0.1.9
+google-generativeai>=0.4.1
+grep-ast>=0.3.3
+loguru>=0.6.0
+networkx>=3.2.1
+openai>=1.64.0
+pydantic>=2.5.3
+pygithub>=2.3
+pylint>=3.0.3
+PyYAML>=6.0.1
+rich>=13.6.0
+tenacity>=8.2.3
+tiktoken>=0.7.0
+tree-sitter>=0.23.2
+tree-sitter-python>=0.23.2
+tree-sitter-languages>=1.10.0
+typing-extensions>=4.11.0
+unidiff>=0.7.5
+httpx>=0.28.1
