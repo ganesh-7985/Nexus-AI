@@ -200,3 +200,5 @@ metagpt/ext/aflow/data
 metagpt/ext/aflow/scripts/optimized
 
 metagpt/workspace/*
+
+backend/.env
